@@ -1,6 +1,4 @@
-/**
- * Created by shitesh on 9/11/17.
- */
+
 public class ClimbingStairs {
     public static int climbWays(int n, int m){
         int res[] = new int[n+1];
